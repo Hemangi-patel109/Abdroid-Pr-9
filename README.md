@@ -2,4 +2,4 @@
 
 AIM: Implement theme and style options.
 
-![]ss1.jpg
+![](./ss1.png) 
